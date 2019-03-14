@@ -1,0 +1,49 @@
+body {
+    height: 100%;
+    background-color:#ffff;
+}
+.nav{
+    text-decoration: none;
+}
+.navbar-brand{
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 5rem;
+    margin-left: 15px;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: green;
+    width: 30%;
+
+}
+.nav-menu{
+    margin-left: 120px;
+    width: 43%;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: green;
+}
+.jumbotron {
+    padding: 4rem 2rem;
+    background-color: floralwhite;
+    text-align: center;
+    margin-top: 5px;
+    height: 410px;
+}
+img{
+    border-radius: 50%;
+}
+.container-fluid {
+    width: 60%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15px;
+}
